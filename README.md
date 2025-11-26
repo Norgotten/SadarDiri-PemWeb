@@ -1,4 +1,4 @@
-# 💸 SadarDiri - Financial Reality Check App
+# SadarDiri - Financial Reality Check App
 
 > *"Berhenti denial. Uangmu habis bukan karena tuyul, tapi karena gaya hidupmu yang nggak ngotak."*
 
@@ -22,7 +22,7 @@ SadarDiri hadir dengan pendekatan **Psikologis & Visual**:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 Aplikasi ini dibangun menggunakan **MERN Stack** dengan arsitektur Modern & Modular:
 
@@ -41,18 +41,18 @@ Aplikasi ini dibangun menggunakan **MERN Stack** dengan arsitektur Modern & Modu
 
 ---
 
-## ✨ Fitur Utama
+## Fitur Utama
 
-1.  **🔐 Secure Authentication:** Register & Login dengan validasi ketat (Zod) dan enkripsi password.
-2.  **📊 Dashboard "Kena Mental":** Menampilkan status keuangan, total pengeluaran, dan diagram persebaran uang.
-3.  **📝 CRUD Transaksi Lengkap:** Catat, Baca, Edit, dan Hapus pengeluaran dengan mudah.
-4.  **📷 Upload Bukti Struk:** Simpan foto struk belanja langsung di setiap transaksi.
-5.  **🔍 Smart Filtering:** Cari transaksi berdasarkan nama atau filter berdasarkan kategori (Makanan, Transport, dll).
-6.  **💡 Fitur Inovasi:** Konversi pengeluaran ke barang nyata ("Total borosmu setara 5x iPhone 13").
+1.  **Secure Authentication:** Register & Login dengan validasi ketat (Zod) dan enkripsi password.
+2.  **Dashboard "Kena Mental":** Menampilkan status keuangan, total pengeluaran, dan diagram persebaran uang.
+3.  **CRUD Transaksi Lengkap:** Catat, Baca, Edit, dan Hapus pengeluaran dengan mudah.
+4.  **Upload Bukti Struk:** Simpan foto struk belanja langsung di setiap transaksi.
+5.  **Smart Filtering:** Cari transaksi berdasarkan nama atau filter berdasarkan kategori (Makanan, Transport, dll).
+6.  **Fitur Inovasi:** Konversi pengeluaran ke barang nyata ("Total borosmu setara 5x iPhone 13").
 
 ---
 
-## 🚀 Cara Menjalankan Project (Setup Instructions)
+## Cara Menjalankan Project (Setup Instructions)
 
 Ikuti langkah ini untuk menjalankan SadarDiri di komputer lokal (Localhost).
 
@@ -102,3 +102,6 @@ npm run dev
 Buka browser dan kunjungi: http://localhost:5173
 
 ### Screenshot Demo
+
+<img width="1919" height="986" alt="image" src="https://github.com/user-attachments/assets/c09611c0-d516-4371-9c3c-299e5c7c1691" />
+
