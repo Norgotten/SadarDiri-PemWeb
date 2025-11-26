@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Env (JANGAN DIPUSH)
+.env
+
+# Uploads (gambar laporan)
+uploads/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+*.log
+
+# Cache
+.cache/
+tmp/
+dist/
+
+# Editor stuff
+.DS_Store
+.idea/
+.vscode/
